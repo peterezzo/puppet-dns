@@ -1,5 +1,5 @@
 {
-  "name": "peterezzo-ssh",
+  "name": "peterezzo-dns",
   "version": "0.0.1",
   "summary": "Puppet module for resolv.conf and /etc/hosts",
   "author": "Pete Ezzo",
